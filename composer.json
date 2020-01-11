@@ -10,8 +10,7 @@
     "type": "library",
     "minimum-stability": "dev",
     "require": {
-        "guzzlehttp/guzzle": "^6.0",
-        "illuminate/support": "^5.5"
+        "guzzlehttp/guzzle": "^6.0"
     },
     "autoload": {
         "psr-4": {
